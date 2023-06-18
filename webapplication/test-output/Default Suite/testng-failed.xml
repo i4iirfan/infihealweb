@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="chatbotframework(failed)">
+    <classes>
+      <class name="TestScript6">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="TravelBehaviourTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestScript6 -->
+    </classes>
+  </test> <!-- chatbotframework(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicked on Book A Session]]>
+    </line>
+    <line>
+      <![CDATA[Name Entered]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Phone Number Entered]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On Submit Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Contact Us Option]]>
+    </line>
+    <line>
+      <![CDATA[Name Entered In Name Field]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered in Email Field]]>
+    </line>
+    <line>
+      <![CDATA[Number Entered in Number Field]]>
+    </line>
+    <line>
+      <![CDATA[Message Entered in Message Field]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Join Us Button]]>
+    </line>
+    <line>
+      <![CDATA[Name Entered]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Country Selected]]>
+    </line>
+    <line>
+      <![CDATA[Phone Number Entered]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on File Upload Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit Button]]>
+    </line>
+    <line>
+      <![CDATA[Enneagram Test Tested Successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="476370" started-at="2023-06-23T20:06:21Z" finished-at="2023-06-23T20:14:17Z">
+    <groups>
+    </groups>
+    <test name="chatbotframework" duration-ms="476370" started-at="2023-06-23T20:06:21Z" finished-at="2023-06-23T20:14:17Z">
+      <class name="TestScript4">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript4@6d00a15d]" name="setUp" is-config="true" duration-ms="7828" started-at="2023-06-23T20:07:09Z" finished-at="2023-06-23T20:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EnneagramTest()[pri:0, instance:TestScript4@6d00a15d]" name="EnneagramTest" duration-ms="99090" started-at="2023-06-23T20:07:16Z" finished-at="2023-06-23T20:08:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Enneagram Test Tested Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EnneagramTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScript4@6d00a15d]" name="closeBrowser" is-config="true" duration-ms="5778" started-at="2023-06-23T20:08:56Z" finished-at="2023-06-23T20:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScript4 -->
+      <class name="TestScript3">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript3@36d4b5c]" name="setUp" is-config="true" duration-ms="7751" started-at="2023-06-23T20:06:50Z" finished-at="2023-06-23T20:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="JoinOurTeamPageTest()[pri:0, instance:TestScript3@36d4b5c]" name="JoinOurTeamPageTest" duration-ms="8285" started-at="2023-06-23T20:06:58Z" finished-at="2023-06-23T20:07:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Join Us Button]]>
+            </line>
+            <line>
+              <![CDATA[Name Entered]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Country Selected]]>
+            </line>
+            <line>
+              <![CDATA[Phone Number Entered]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on File Upload Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- JoinOurTeamPageTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScript3@36d4b5c]" name="closeBrowser" is-config="true" duration-ms="2698" started-at="2023-06-23T20:07:06Z" finished-at="2023-06-23T20:07:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScript3 -->
+      <class name="TestScript2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript2@2ef5e5e3]" name="setUp" is-config="true" duration-ms="6783" started-at="2023-06-23T20:06:39Z" finished-at="2023-06-23T20:06:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="contactUsTest()[pri:0, instance:TestScript2@2ef5e5e3]" name="contactUsTest" duration-ms="1013" started-at="2023-06-23T20:06:46Z" finished-at="2023-06-23T20:06:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Contact Us Option]]>
+            </line>
+            <line>
+              <![CDATA[Name Entered In Name Field]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered in Email Field]]>
+            </line>
+            <line>
+              <![CDATA[Number Entered in Number Field]]>
+            </line>
+            <line>
+              <![CDATA[Message Entered in Message Field]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- contactUsTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScript2@2ef5e5e3]" name="closeBrowser" is-config="true" duration-ms="2832" started-at="2023-06-23T20:06:47Z" finished-at="2023-06-23T20:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScript2 -->
+      <class name="TestScript1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript1@643b1d11]" name="setUp" is-config="true" duration-ms="13302" started-at="2023-06-23T20:06:21Z" finished-at="2023-06-23T20:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnBookSession()[pri:0, instance:TestScript1@643b1d11]" name="clickOnBookSession" duration-ms="2065" started-at="2023-06-23T20:06:34Z" finished-at="2023-06-23T20:06:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Book A Session]]>
+            </line>
+            <line>
+              <![CDATA[Name Entered]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Phone Number Entered]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On Submit Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnBookSession -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScript1@643b1d11]" name="closeBrowser" is-config="true" duration-ms="3297" started-at="2023-06-23T20:06:36Z" finished-at="2023-06-23T20:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScript1 -->
+      <class name="TestScript8">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript8@51081592]" name="setUp" is-config="true" duration-ms="9594" started-at="2023-06-23T20:13:20Z" finished-at="2023-06-23T20:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="RorschachInkBlotTest()[pri:0, instance:TestScript8@51081592]" name="RorschachInkBlotTest" duration-ms="40348" started-at="2023-06-23T20:13:30Z" finished-at="2023-06-23T20:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RorschachInkBlotTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScript8@51081592]" name="closeBrowser" is-config="true" duration-ms="6656" started-at="2023-06-23T20:14:10Z" finished-at="2023-06-23T20:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScript8 -->
+      <class name="TestScript7">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript7@396a51ab]" name="setUp" is-config="true" duration-ms="13606" started-at="2023-06-23T20:11:47Z" finished-at="2023-06-23T20:12:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ArchetypeTest()[pri:0, instance:TestScript7@396a51ab]" name="ArchetypeTest" duration-ms="73388" started-at="2023-06-23T20:12:00Z" finished-at="2023-06-23T20:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArchetypeTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScript7@396a51ab]" name="closeBrowser" is-config="true" duration-ms="6482" started-at="2023-06-23T20:13:14Z" finished-at="2023-06-23T20:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScript7 -->
+      <class name="TestScript6">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript6@5034c75a]" name="setUp" is-config="true" duration-ms="10332" started-at="2023-06-23T20:09:59Z" finished-at="2023-06-23T20:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TravelBehaviourTest()[pri:0, instance:TestScript6@5034c75a]" name="TravelBehaviourTest" duration-ms="92422" started-at="2023-06-23T20:10:09Z" finished-at="2023-06-23T20:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TravelBehaviourTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScript6@5034c75a]" name="closeBrowser" is-config="true" duration-ms="5082" started-at="2023-06-23T20:11:42Z" finished-at="2023-06-23T20:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScript6 -->
+      <class name="TestScript5">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript5@51efea79]" name="setUp" is-config="true" duration-ms="9964" started-at="2023-06-23T20:09:01Z" finished-at="2023-06-23T20:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DiscTest()[pri:0, instance:TestScript5@51efea79]" name="DiscTest" duration-ms="40452" started-at="2023-06-23T20:09:11Z" finished-at="2023-06-23T20:09:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DiscTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestScript5@51efea79]" name="closeBrowser" is-config="true" duration-ms="7254" started-at="2023-06-23T20:09:52Z" finished-at="2023-06-23T20:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScript5 -->
+    </test> <!-- chatbotframework -->
+  </suite> <!-- Default Suite -->
+</testng-results>
